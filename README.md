@@ -27,7 +27,7 @@ making employee data management a seamless process.
 * Ensure to log in with appropriate access credentials for secure data handling.
 * 
 ## Sample Output
-https://drive.google.com/file/d/1gTrchTWmPPOaMrszAmdbNzHQQXtLaAJ_/view?usp=drive_link
+![Employee_management_system](https://github.com/Saurabh6912/Employee-Management-System/assets/135308872/21e44c42-61be-4479-99f8-bf94b5a085b1)
 ## Contributions
 We welcome contributions to enhance the functionality and user experience of the Employee Management System. Feel free to submit pull requests with new features,
 bug fixes, or improvements. For major changes.
