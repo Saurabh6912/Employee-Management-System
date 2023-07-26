@@ -1,0 +1,10 @@
+# Language
+Python 3.10.5
+
+# Database
+MySQL 
+
+# Dependencies
+Tkinter
+PIL
+mysql.connector
