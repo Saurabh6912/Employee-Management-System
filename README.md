@@ -28,6 +28,22 @@ making employee data management a seamless process.
 * 
 ## Sample Output
 ![Employee_management_system](https://github.com/Saurabh6912/Employee-Management-System/assets/135308872/21e44c42-61be-4479-99f8-bf94b5a085b1)
+## Save Functionality
+
+https://github.com/Saurabh6912/Employee-Management-System/assets/135308872/348dc89a-4f64-4ef7-94fe-a031cbe07bd4
+
+## Dalete Functionality
+
+https://github.com/Saurabh6912/Employee-Management-System/assets/135308872/8037aa85-15a5-4e9c-87b2-2d64305778dc
+
+## Update Functionality
+
+https://github.com/Saurabh6912/Employee-Management-System/assets/135308872/3376cd72-fd46-459a-b9dd-8d2d4e00d476
+
+## Clear Search Show_all Functionality
+
+https://github.com/Saurabh6912/Employee-Management-System/assets/135308872/34d1be3b-757f-49be-9d37-0b49020f1ce4
+
 ## Contributions
 We welcome contributions to enhance the functionality and user experience of the Employee Management System. Feel free to submit pull requests with new features,
 bug fixes, or improvements. For major changes.
